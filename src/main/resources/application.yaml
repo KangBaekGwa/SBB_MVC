@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: SBB
+  profiles:
+    active: prod
+
+server:
+  port: 8080
